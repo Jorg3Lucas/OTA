@@ -1,12 +1,12 @@
 {
    "response":[
       {
-         "datetime":"1616340307",
-         "filename":"lineage-18.1-20210321-UNOFFICIAL-sanders.zip",
-         "id":"5ea6f477562159c8f3ba815db3173864",
-         "size":"699623419",
+         "datetime":"1616381375",
+         "filename":"lineage-18.1-20210322-UNOFFICIAL-sanders.zip",
+         "id":"af8b1dcfd3c4a871597e5a395dcd1b1f",
+         "size":"690453739",
          "romtype":"UNOFFICIAL",
-         "url":"https://github.com/Jorg3Lucas/OTA/releases/download/1.0/lineage-18.1-20210321-UNOFFICIAL-sanders.zip",
+         "url":"https://github.com/Jorg3Lucas/OTA/releases/download/2.0/lineage-18.1-20210322-UNOFFICIAL-sanders.zip",
          "version":"18.1"
       }
    ]
